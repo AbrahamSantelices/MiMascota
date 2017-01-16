@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiMascota</string>
+    <string name="nombre">Abraham Santelices</string>
+    <string name="telefono">55552211</string>
+    <string name="email">abraham@gmail.com</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+
+</resources>
